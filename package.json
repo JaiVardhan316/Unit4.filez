@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "express": "^5.1.0",
-    "pg": "^8.14.1"
+    "pg": "^8.16.3"
   },
   "devDependencies": {
     "supertest": "^7.1.0",
